@@ -2,11 +2,11 @@
 This app is for expressing readers' thoughts on a book. The user can add it to the list, categorize it, rate it and comment.
 
 ## The App 3 main features:
-[1] Home and Add Book page.
+- [Home and Add Book page](#Home-and-Add-Book-page)
 
-[2] Adding name, author, gerne, rate and review for each book.
+- [Adding name, author, gerne, rate and review for each book](#Adding-name,-author,-gerne,-rate-and-review-for-each-boo)
 
-[3] Ability to remove the book you added.
+- [Ability to remove the book you added](#Ability-to-remove-the-book-you-added)
 
 ## Home and Add Book page
 <p align="left">
